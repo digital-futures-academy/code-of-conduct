@@ -64,7 +64,7 @@ In your report, please include:
 If the violation happened online, please link to or send us the relevant text.
 If the violation happened in person, please detail what exactly the other person said or did. In order to take action, we need to know the concrete actions that someone took.
 - Where and when the incident happened
-- Any other relevant context. Do you have examples of a pattern of similar behaviour from this person before? Do you have a relationship with this person outside of RC?
+- Any other relevant context. Do you have examples of a pattern of similar behaviour from this person before? Do you have a relationship with this person outside of Digital Futures?
 - If/how you’ve already responded—this lets us know the current state of the situation.
 
 
