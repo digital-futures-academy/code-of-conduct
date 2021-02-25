@@ -55,7 +55,10 @@ The consequences for the DF community of not reporting bad behaviour outweigh th
 Digital Futures works best as a community-first community because of shared trust amongst everyone. Reporting code of conduct violations helps us identify when this trust is broken, to prevent that from happening in the future.
 
 #### Where and how to report
-Please report all code of conduct violations using our reporting form. If you would rather discuss the matter in person with a staff member, email us to schedule a time to talk.
+Please report all code of conduct violations using our reporting form.
+https://forms.office.com/Pages/ResponsePage.aspx?id=j9LsJNoACUCYjVxKUiqhGDowJBD0AjBKl2D9jqqe0ZVUQ1BNUEZLTldRMThHUE84QkQ4WE5BOFdaOS4u
+
+If you would rather discuss the matter in person with a staff member, email us to schedule a time to talk.
 
 In your report, please include:
 
