@@ -71,4 +71,4 @@ If the violation happened in person, please detail what exactly the other person
 ## License
 The DF code of conduct is available under the terms of the CC0 license.
 
-Parts of it are based on https://queer-code.org/coc, the PyCon 2013 Code of Conduct, and the example conference anti-harassment policy on the Geek Feminism Wiki, created by the Ada Initiative and other volunteers.
+Parts of it are based on https://queer-code.org/coc, https://www.recurse.com/code-of-conduct, the PyCon 2013 Code of Conduct, and the example conference anti-harassment policy on the Geek Feminism Wiki, created by the Ada Initiative and other volunteers.
